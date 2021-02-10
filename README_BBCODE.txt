@@ -33,7 +33,7 @@ Craft more Wild Bait.  Also maybe add an Alternate Wild Bait Recipe.  New in v1.
 
 [b][size=5]Compatibility[/size][/b]
 - Should work in both Multiplayer and SinglePlayer.
-- SMAPI 3.9.1, Content Patcher 1.19.4, and Stardew Valley 1.5.3
+- SMAPI 3.9.1, Content Patcher 1.20.0, and Stardew Valley 1.5.3
 
 
 [b][size=4]Source[/size][/b]
@@ -42,6 +42,8 @@ Craft more Wild Bait.  Also maybe add an Alternate Wild Bait Recipe.  New in v1.
 
 
 [b][size=4]My other mods[/size][/b]
+- [url=https://www.nexusmods.com/stardewvalley/mods/7982]Adjustable Fertilizer[/url]
+	- Choose how much Fertilizer to create when crafting.
 - [url=https://www.nexusmods.com/stardewvalley/mods/7906]Spinkler Updater[/url]
 	- Update your Sprinklers to Quality.
 	- Update your Quality Sprinklers to Iridium Sprinklers.
