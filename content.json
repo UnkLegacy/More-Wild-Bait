@@ -1,8 +1,7 @@
 ﻿{
-	"Format": "1.19.0",
+	"Format": "1.20.0",
 	"ConfigSchema": {
 		"NumBaitCrafted": {
-			"AllowValues": "1, 5, 10, 20, 25, 50, 75, 100",
 			"Default": "25",
 			"Description": "The number of Wild Bait created when crafting."
 		},
@@ -17,17 +16,14 @@
 			"Description": "Fishing skill required to unlock Alternate Wild Bait."
 		},
 		"NumAltBaitCrafted": {
-			"AllowValues": "1, 5, 10, 20, 25, 50, 75, 100",
 			"Default": "1",
 			"Description": "The number of Alternate Wild Bait created when crafting."
 		},
 		"FiberNeeded": {
-			"AllowValues": "1, 2, 5, 10",
 			"Default": "2",
 			"Description": "Number of Fiber needed to craft Alternate Wild Bait."
 		},
 		"FishNeeded": {
-			"AllowValues": "1, 2, 5, 10",
 			"Default": "1",
 			"Description": "Number of Fish (Any) needed to craft Alternate Wild Bait."
 		},
@@ -37,7 +33,6 @@
 			"Description": "Third Ingredient required to craft Alternate Wild Bait."
 		},
 		"ThirdIngredientNeeded": {
-			"AllowValues": "1, 2, 5, 10, 20, 25, 50",
 			"Default": "5",
 			"Description": "Number of Third Ingredient needed to craft Alternate Wild Bait."
 		},

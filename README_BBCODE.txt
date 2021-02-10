@@ -4,22 +4,22 @@ Craft more Wild Bait.  Also maybe add an Alternate Wild Bait Recipe.  New in v1.
 
 [b][size=5]Player Config Options[/size][/b]
 - Choose how many Wild Bait are created when crafting.
-	- Options: [i][b]1[/b][/i], [i][b]5[/b][/i], [i][b]10[/b][/i], [i][b]20[/b][/i], [i][b]25[/b][/i], [i][b]50[/b][/i], [i][b]75[/b][/i], [i][b]100[/b][/i]. Default is [i][b]25[/b][/i].
+	- Default is [i][b]25[/b][/i].
 - Decide if you want to enable an Alternate Wild Bait Recipe that uses Fish.
 	- Options: [i][b]true[/b][/i], [i][b]false[/b][/i].  Default is [i][b]true[/b][/i].
 > The following options are only for the Alternate Wild Bait Recipe.	
 - Decide what Fishing Skill is required to unlock the Alternate Wild Bait Recipe.
-	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]3[/b][/i], [i][b]4[/b][/i], [i][b]5[/b][/i], [i][b]6[/b][/i], [i][b]7[/b][/i], [i][b]8[/b][/i], [i][b]9[/b][/i], [i][b]10[/b][/i].  Default is [i][b]9[/b][/i].
+	- Options: [i][b]0[/i][/b], through [i][b]10[/b][/i].  Default is [i][b]9[/b][/i].
 - Choose how many Alternate Wild Bait are created when crafting.
-	- Options: [i][b]1[/b][/i], [i][b]5[/b][/i], [i][b]10[/b][/i], [i][b]20[/b][/i], [i][b]25[/b][/i], [i][b]50[/b][/i], [i][b]75[/b][/i], [i][b]100[/b][/i]. Default is [i][b]1[/b][/i].
+	- Default is [i][b]1[/b][/i].
 - Choose how many Fiber are required to craft Alternate Wild Bait.
-	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]5[/b][/i], [i][b]10[/b][/i]. Default is [i][b]2[/b][/i].
+	- Default is [i][b]2[/b][/i].
 - Choose how many Fish (Any) are required to craft Alternate Wild Bait.
-	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]5[/b][/i], [i][b]10[/b][/i]. Default is [i][b]1[/b][/i].
+	- Default is [i][b]1[/b][/i].
 - Choose what the third ingredient is required to craft Alternate Wild Bait.
 	- Options: [i][b]None[/b][/i], [i][b]Sap[/b][/i], [i][b]Slime[/b][/i].  Default is [i][b]Sap[/b][/i].
 - Choose how many of the third ingredient is required to craft Alternate Wild Bait.
-	- Options: [i][b]1[/b][/i], [i][b]2[/b][/i], [i][b]5[/b][/i], [i][b]10[/b][/i], [i][b]20[/b][/i], [i][b]25[/b][/i], [i][b]50[/b][/i]. Default is [i][b]5[/b][/i].
+	- Default is [i][b]5[/b][/i].
 
 
 [b][size=5]How to Install[/size][/b]

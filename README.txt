@@ -6,22 +6,22 @@ Craft more Wild Bait.  Also maybe add an Alternate Wild Bait Recipe.  New in v1.
 
 ## Player Config
 - Choose how many Wild Bait are created when crafting.
-	- Options: 1, 5, 10, 20, 25, 50, 75, 100.  Default: 25
+	- Default: 25
 - Decide if you want to enable an Alternate Wild Bait Recipe that uses Fish.
 	- Options: true, false.  Default: true
 > The following options are only for the Alternate Wild Bait Recipe.
 - Decide what Fishing Skill is required to unlock the Alternate Wild Bait Recipe.
-	- Options: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.  Default: 9
+	- Options: 0 through 10.  Default: 9
 - Choose how many Alternate Wild Bait are created when crafting.
-	- Options: 1, 5, 10, 20, 25, 50, 75, 100.  Default: 1
+	- Default: 1
 - Choose how many Fiber are required to craft Alternate Wild Bait.
-	- Options: 1, 2, 5, 10.  Default: 2
+	- Default: 2
 - Choose how many Fish (Any) are required to craft Alternate Wild Bait.
-	- Options: 1, 2, 5, 10.  Default: 1
+	- Default: 1
 - Choose what the third ingredient is required to craft Alternate Wild Bait.
 	- Options: None, Sap, Slime.  Default: Sap
 - Choose how many of the third ingredient is required to craft Alternate Wild Bait.
-	- Options: 1, 2, 5, 10, 20, 25, 50.  Default: 5
+	- Default: 5
 	
 > Please note: The Alternate Wild Bait recipe is called "Wild Bait (Fish)" in game.  Only the name of the recipe is different.  It will still create normal Wild Bait.
 
